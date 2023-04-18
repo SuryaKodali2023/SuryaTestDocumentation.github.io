@@ -24,3 +24,13 @@ title: Documentation
 </ol>
 
 Purpose of this site is to have a PR process for the documentation relevant to a certain project. Documentation can include Requirements, Design, Architecture, how-tos, TSG, SOPs, gotcha's and what not...
+
+[Sample Requirements Template!](docs/requirements.md)
+
+[Sample Design Document!](docs/design_doc.md)
+
+```py
+# Testing python code
+def test_func():
+    print("hello")
+```

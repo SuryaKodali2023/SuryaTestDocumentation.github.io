@@ -33,6 +33,3 @@ date:   2023-04-12 20:59:48 +0000
         end
     end
 </div>
-
- Note: Note to self :) 
-
