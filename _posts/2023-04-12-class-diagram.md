@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Example: Class Diagram!"
 date:   2023-04-12 20:59:48 +0000
 ---
