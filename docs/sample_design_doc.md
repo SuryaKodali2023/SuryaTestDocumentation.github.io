@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Design Doc
+title: Sample Design Doc
 ---
 
 # Sample Design Document

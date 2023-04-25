@@ -25,9 +25,11 @@ title: Documentation
 
 Purpose of this site is to have a PR process for the documentation relevant to a certain project. Documentation can include Requirements, Design, Architecture, how-tos, TSG, SOPs, gotcha's and what not...
 
-#### [Sample Requirements Template!](docs/requirements.md)
+### [Design Document for this project](docs/design_document.md)
 
-#### [Sample Design Document!](docs/design_doc.md)
+#### [Sample Requirements Template!](docs/sample_requirements.md)
+
+#### [Sample Design Document!](docs/sample_design_doc.md)
 
 #### Sample python code!
 ```py
